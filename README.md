@@ -304,7 +304,7 @@ Solution:
 
 Include this statement in your paper:
 
-> "The code and data supporting this study are available at [GitHub URL]. 
+> "The code and data supporting this study are available at [https://github.com/sokoljator/CAUTI-metabolomics/CAUTI_metabolomics_analysis.py]. 
 > Strain descriptions and metadata are provided in Supplementary Table S1. 
 > All statistical analyses were performed using the CAUTI Metabolomics Analysis 
 > Pipeline (v1.0), implemented in Python 3.8+ with dependencies listed in 
@@ -320,7 +320,7 @@ If you use this pipeline in your research, please cite:
   author = {Sokol, Dmytro},
   title = {CAUTI Metabolomics Analysis Pipeline},
   year = {2025},
-  url = {https://github.com/yourusername/CAUTI-metabolomics},
+  url = {https://github.com/sokoljator/CAUTI-metabolomics/CAUTI_metabolomics_analysis.py},
   version = {1.0}
 }
 ```
