@@ -1,5 +1,4 @@
-![ChatGPT Image 18 груд  2025 р , 13_15_56](https://github.com/user-attachments/assets/3f411314-3c36-4b00-8129-be0e1a02a98e)
-
+<img width="800" height="871" alt="ChatGPT Image 18 груд  2025 р , 13_15_56" src="https://github.com/user-attachments/assets/dd35ba5d-167f-445d-bcc3-d4a95a1e1763" />
 
 # Cowtea v1.0.0 - CAUTI Metabolomics Analysis Pipeline
 
